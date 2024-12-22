@@ -20,5 +20,3 @@ To run the code locally, clone this repository and install the required dependen
 
 ```bash
 git clone https://github.com/yourusername/deep-ml-solutions.git
-cd deep-ml-solutions
-pip install -r requirements.txt
