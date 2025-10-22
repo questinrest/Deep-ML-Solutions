@@ -1,4 +1,4 @@
-# Deep-ML Solutions -- Continued
+# Deep-ML Solutions
 
 This repository contains my solutions to coding exercises from the [Deep-ML platform](https://www.deep-ml.com) across various topics such as:
 
